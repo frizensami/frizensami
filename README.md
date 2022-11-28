@@ -13,6 +13,3 @@ You can find my research [here](https://sriramsami.com/research) and more about 
 - I've made a few [collaborative](https://github.com/frizensami/treehouse-game) and [experimental](https://github.com/frizensami/dixit) *games*.
 - When possible, I try to find real-world cases for *timing-sensitive distributed systems* like this [marathon timing controller](https://github.com/frizensami/tvm).
 - In general, I have a wide range of random interests such as [group matching through Hamiltonian cycles](https://github.com/frizensami/archangel), [group formation with genetic algorithms](https://github.com/frizensami/group-matching), [formal proofs using TLA+](https://github.com/frizensami/tlaplus-projects), etc.
-
-
-If you'd like to work together on something, I'm always game. 
