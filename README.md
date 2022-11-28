@@ -15,3 +15,4 @@ You can find my research [here](https://sriramsami.com/research) and more about 
 - In general, I have a wide range of random interests such as [group matching through Hamiltonian cycles](https://github.com/frizensami/archangel), [group formation with genetic algorithms](https://github.com/frizensami/group-matching), [formal proofs using TLA+](https://github.com/frizensami/tlaplus-projects), etc.
 
 
+If you'd like to work together on something, I'm always game. 
