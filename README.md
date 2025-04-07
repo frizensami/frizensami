@@ -1,6 +1,6 @@
 ### About me
 
-I am a Computer Science PhD student at the National University of Singapore. My current research focuses on **security and privacy issues** and **novel use-cases** for **active sensors** (LIDARs, time-of-flight sensors, etc).
+I am a Computer Science PhD graduate (and now teaching staff) from the National University of Singapore. My research focused on **security and privacy issues** and **novel use-cases** for **active sensors** (LIDARs, time-of-flight sensors, etc).
 
 You can find my research [here](https://sriramsami.com/research) and more about my teaching [here](https://sriramsami.com/teaching/).
 
