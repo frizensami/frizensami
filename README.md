@@ -4,8 +4,11 @@ I am a Lecturer at the National University of Singapore, Department of Computer 
 
 You can find my research [here](https://sriramsami.com/research) and more about my teaching [here](https://sriramsami.com/teaching/). I also [write](https://sriramsami.com/blog/), very occasionally.
 
-### Areas of interest
+### Current focus
 
+- Along with my co-lecturer, I work on a platform for students in our CS1010 Programming Methodology class at NUS to access [a Linux instance in the browser](https://github.com/learn-compsci/webtop). 
+
+### Random interests
 - I like working on programming languages like this [Singlish-based one](https://github.com/frizensami/singlang) and [understanding the quirks of other languages](https://github.com/frizensami/haskell-optimization).
 - I try to find ways to do social good using code, such as this [blood stock tracker for Singapore](https://github.com/frizensami/singapore-bloodstocks-bot) (with [over 2 years of data](https://github.com/frizensami/red-cross-blood-stocks)) and my [research project to find hidden cameras using just a smartphone](https://github.com/frizensami/lapd).
 - I also enjoy making productivity tools such as this [module/timetable optimizer](https://github.com/frizensami/nus-timetable-optimizer), a [Chrome extension to see relevant discussions](https://github.com/UseCrowdWise/crowdwise) based on the webpage you're on, and a [animation automation tool for Google Slides](https://chrome.google.com/webstore/detail/slides-animator/mhdmaokphjlbobmlioagngakkofbchdo).
