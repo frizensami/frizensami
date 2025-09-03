@@ -6,7 +6,7 @@ You can find my research [here](https://sriramsami.com/research) and more about 
 
 ### Current focus
 
-- Along with my co-lecturer and teaching assistants, I work on a platform for students in our CS1010 Programming Methodology class at NUS to access [a Linux instance in the browser](https://github.com/learn-compsci/webtop). 
+- Along with my co-lecturer and teaching assistants, I work on a platform for students in our CS1010 Programming Methodology class at NUS to access [a Linux desktop environment in their browser](https://github.com/learn-compsci/webtop). 
 
 ### Random interests
 - I like working on programming languages like this [Singlish-based one](https://github.com/frizensami/singlang) and [understanding the quirks of other languages](https://github.com/frizensami/haskell-optimization).
